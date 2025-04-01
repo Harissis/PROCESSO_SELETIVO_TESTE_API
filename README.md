@@ -40,8 +40,10 @@ npm run dev
 Acesse a aplicação
 Abra no navegador: http://localhost:5173
 
+PASTA:
 
-operadoras-ans/
+Projeto/
+
  Back-End/
  
  app.py      
@@ -54,4 +56,4 @@ Front-End/
  
  App.vue          
 
-operadoras.csv          
+/operadoras.csv          
