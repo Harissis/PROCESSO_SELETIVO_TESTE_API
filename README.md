@@ -42,12 +42,16 @@ Abra no navegador: http://localhost:5173
 
 
 operadoras-ans/
-├── Back-End/
-│   ├── app.py               # API Flask principal
-│   └── requirements.txt     # Dependências Python
-├── Front-End/
-│   ├── src/
-│   │   └── App.vue          # Componente principal
-│   └── package.json         # Dependências Node
-├── operadoras.csv           # Dados das operadoras (exemplo)
-└── README.md                # Este arquivo
+ Back-End/
+ 
+ app.py      
+ 
+ requirements.txt  
+ 
+Front-End/
+
+ src/
+ 
+ App.vue          
+
+operadoras.csv          
